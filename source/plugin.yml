@@ -1,0 +1,16 @@
+name: CraftHolia
+author: Holia
+description: The plugin you need on your server!
+version: 0.1
+main: fr.holia.craftholia.Main
+commands:
+ craftholia:
+  description: Command of CraftHolia
+ newevent:
+  description: Command
+ event:
+  description: Join event
+ spawn:
+  description: Spawn
+ setspawn:
+  description: Set Spawn
